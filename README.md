@@ -6,4 +6,4 @@ if your command is valid result show if not the command run for times that you p
 
 fro try2.sh options -i and -n is optional that means you can don't pass them. the app read variables time and number of reapeat from $ENV if not set in $ENV app use defualt value for them.
 
-‫)‪[@dwsclass]https://github.com/dwsclass‬‬dws-dev-006-bash)‬
+‫‪[@dwsclass](https://github.com/dwsclass‬)dws-dev-006-bash
